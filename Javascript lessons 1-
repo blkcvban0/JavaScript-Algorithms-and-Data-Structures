@@ -1,0 +1,8 @@
+// This is lesson one
+/*This is part two of lesson one*/
+
+var myName;
+myName = 8;
+var myVar;
+myVar = myName;
+
