@@ -5,4 +5,18 @@ var myName;
 myName = 8;
 var myVar;
 myVar = myName;
+var a = 5;
+var b = 10;
+var c = "I am a...";
+
+/*camelCase all variables*/
+var sum = 10 + 10;
+var mySub = 10 - 4;
+var myMultiply = 10 * 4;
+var myQuotient = 10 / 7;
+
+
+myName++;
+b--;
+
 
